@@ -169,7 +169,6 @@
 		                        } 
 		                     ?>
 		                    <div class="description-em">
-			                    <span class="by-view-number"><?php echo df_getPostViews($post->ID);?></span>
 			                    <span class="by-date"><?php the_time('j F, Y');?></span>
 		                    </div>
 		                </div>

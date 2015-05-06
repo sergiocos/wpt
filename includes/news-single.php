@@ -15,6 +15,7 @@
                	 	<h1 class="entry-title"><?php the_title(); ?></h1>
 	                <div class="entry-meta">
 	                    <div class="description-em">
+						<div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 	                        <span class="by-category">
 								<?php 
 									$postCategories = wp_get_post_categories( $post->ID );

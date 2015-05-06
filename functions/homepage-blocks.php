@@ -51,7 +51,6 @@
 		                        } 
 		                     ?>
 	                        <div class="description-em">
-	                            <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                            <span class="by-date"><?php the_time('j F, Y');?></span>
 		                        <?php if ( comments_open() ) { ?>
 		                            <span class="by-comments">
@@ -99,7 +98,6 @@
 			                        } 
 			                     ?>
 	                            <div class="description-em">
-	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 	                        </div>
@@ -179,7 +177,6 @@
 			                        } 
 			                     ?>
 	                            <div class="description-em">
-	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 		                    </div>
@@ -247,7 +244,6 @@
 		                        } 
 		                     ?>
 	                        <div class="description-em">
-	                            <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                            <span class="by-date"><?php the_time('j F, Y');?></span>
 		                        <?php if ( comments_open() ) { ?>
 		                            <span class="by-comments">
@@ -294,7 +290,6 @@
 			                        } 
 			                     ?>
 	                            <div class="description-em">
-	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 	                        </div>
@@ -412,7 +407,6 @@
 			                        } 
 			                     ?>
 	                            <div class="description-em">
-	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 		                    </div>
@@ -495,7 +489,6 @@
 			                        } 
 			                     ?>
 	                            <div class="description-em">
-	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 		                    </div>
@@ -576,7 +569,6 @@
 		                        } 
 		                     ?>
 	                        <div class="description-em">
-	                            <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                            <span class="by-date"><?php the_time('j F, Y');?></span>
 		                        <?php if ( comments_open() ) { ?>
 		                            <span class="by-comments">
@@ -618,7 +610,6 @@
 			                        } 
 			                     ?>
 	                            <div class="description-em">
-	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
 	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 	                        </div>

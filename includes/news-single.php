@@ -15,7 +15,6 @@
                	 	<h1 class="entry-title"><?php the_title(); ?></h1>
 	                <div class="entry-meta">
 	                    <div class="description-em">
-	                        <span class="by-view-number"><?php echo df_getPostViews($post->ID);?></span>
 	                        <span class="by-category">
 								<?php 
 									$postCategories = wp_get_post_categories( $post->ID );

@@ -19,9 +19,10 @@ ul.social-icons li a, .tagcloud a, #sidebar ul.widget-social-profile li.twitter 
 /* ==========================================================================
    Top bar
    ========================================================================== */
+   /* sergiu-mod: top bar mai sus (margin) */
 #top-bar {
 	padding: 0 20px;
-	margin: 30px auto 15px auto;
+	margin: 0px auto 8px auto;
 	max-width: 1240px;
 	overflow: hidden
 }

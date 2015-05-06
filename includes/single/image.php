@@ -19,7 +19,6 @@
 ?>
     <!-- Image -->
 	<div class="post-image">
-		<a href="<?php echo $imageL['src'];?>" rel="lightbox">
 			<?php echo df_image_html($post->ID,$width,$height); ?>
 		</a>
 	</div>   

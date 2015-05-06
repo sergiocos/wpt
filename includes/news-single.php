@@ -35,7 +35,6 @@
 								?>
 	                        </span>
 	                        <span class="by-date"><?php the_time('j F, Y');?></span>
-	                        <span class="by-author"><?php echo the_author_posts_link();?></span>
 			                <?php if ( comments_open() ) { ?>
 			               		<span class="by-comments">
 			               			<a href="<?php the_permalink();?>#comments"><?php comments_number("0","1","%"); ?></a>

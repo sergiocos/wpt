@@ -43,7 +43,9 @@
 	                    </div>
 	                </div>
 	            <?php } ?>
-                <?php the_content(); ?>
+                <?php the_content(); ?><hr>
+				<div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><hr>
+				<div class="fb-comments" data-href="<?php the_permalink() ?>" data-version="v2.3" data-width="100%" data-numposts="10" data-colorscheme="light"></div>
             </div>
 			<?php 
 				$args = array(

@@ -1,0 +1,134 @@
+Version 1.1.5
+* Edited Files
+style.css
+functions/filters.php
+functions/other.php
+includes/widgets/widget-imagpress-latest-comments.php
+
+Version 1.1.4
+*Edited Files
+style.css
+includes/admin/buttons-formatting/custom-editor-style.css
+includes/admin/buttons-formatting/editor-plugin.js
+
+Version 1.1.3
+Edited Files
+style.css
+function/other.php
+includes/admin/general.php
+
+Version 1.1.2
+Edited Files
+style.css
+includes/admin/functions/jquery-css-include.php
+
+Version 1.1.1
+Edited Files
+style.css
+functions/filters.php
+include/single/post-ratings.php
+
+
+Version 1.1.0
+Edited Files
+style.css
+includes/sidebar.php
+functions/register.php
+lib/css/layout.css
+
+Version 1.0.9
+Edited Files
+style.css
+functions/imagpress-menu.php
+includes/theme-config.php
+lib/css/layout.css
+lib/css/grid.css
+lib/js/jquery.sticky.js
+functions/jquery-css-include.php
+includes/top.php
+includes/admin/style.php
+
+
+Version 1.0.8
+Edited Files
+style.css
+includes/widgets/widget-imagpress-reviews.php
+includes/widgets/widget-imagpress-latest-posts-2.php
+includes/widgets/widget-imagpress-latest-posts.php
+lib/css/admin/safari.css
+lib/css/admin/main-stylesheet.css
+lib/css/admin/main-responsive.css
+includes/admin/functions/jquery-css-include.php
+lib/css/grid.css
+lib/css/layout.css
+includes/admin/jscolor/jscolor.js
+includes/top.php
+
+Version 1.0.7
+Edited Files
+style.css
+functions/homepage-blocks.php
+functions/drag-drop.php
+
+Version 1.0.6
+Edited Files
+style.css
+lib/css/admin/main-stylesheet.css
+lib/css/admin/main-responsive.css
+lib/css/admin/post.css
+includes/admin/functions/jquery-css-include.php
+lib/js/admin/scripts.js
+
+Version 1.0.5
+Edited Files
+style.css
+includes/shortcodes/tab.php
+includes/shortcodes/toggles.php
+functions/homepage-blocks.php
+functions/drag-drop.php
+
+Version 1.0.4
+Edited Files
+funtions/other.php
+includes/admin/functions/jquery-css-include.php
+lib/css/admin/main-stylesheet.css
+
+Version 1.0.3
+Edited Files
+header.php
+includes/admin/general.php
+style.css
+
+
+Version 1.0.2
+Edited Files
+includes/admin/buttons-formatting/custom-editor-style.css
+
+Version 1.0.1V
+Edited Files
+includes/loop/image.php
+includes/loop/image-home.php
+includes/loop/image-widget.php
+includes/widgets/widget-imagpress-latest-posts-2.php
+includes/widgets/widget-imagpress-popular-posts.php
+includes/widgets/widget-imagpress-reviews.php
+includes/single/post-ratings.php
+includes/single/image.php
+includes/admin/functions/default-values.php
+includes/admin/functions/jquery-css-include.php
+includes/admin/general.php
+includes/admin/style.php
+includes/sidebar.php
+includes/top.php
+lib/css/grid.css
+lib/css/layout.css
+lib/css/style.css
+lib/css/dynamic-css.php
+lib/js/scripts.php
+functions/other.php
+
+
+Version 1.0.0V
+* Initial Release
+
+

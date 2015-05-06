@@ -1,0 +1,47 @@
+/* Background color for header, widget title, copyright, search button, slider container */
+#header, #sidebar h3.widget-title, #copyright, ul.primary-navigation ul, .search-form input[type="submit"], #wp-calendar tfoot, #wp-calendar th, .widget-slider .bx-controls-direction
+{background-color: #34495e}
+
+/* Background color for footer */
+#footer {background-color: #222222}
+
+/* Background hover color for menu links */
+ul.primary-navigation a:hover, ul.primary-navigation a.current, ul.primary-navigation li:hover > a, ul.primary-navigation li.sfHover > a 
+{background-color: rgba(255, 255, 255, 0.1);}
+
+/* Text color for menu links, search button */
+ul.primary-navigation a, .search-form input[type="submit"] {color: rgba(255, 255, 255, 0.5);}
+
+/* Text hover and current color for menu links, search button */
+ul.primary-navigation a:hover, ul.primary-navigation a.current, ul.primary-navigation li:hover > a {color:#fff;}
+
+/* Text color for widget title, copyright block */
+#sidebar h3.widget-title, #copyright, #wp-calendar tfoot {color:#999999;}
+
+/* Border color for menu links */
+ul.primary-navigation a, .widget-slider .bx-controls-direction a.bx-prev, .widget-slider .bx-controls-direction a.bx-next {border-color:#293a4b;}
+
+
+/* ---- SLider ------ */
+
+
+/* Background color for tabs container slider */
+#featured-slider-pager, #slider-container .container {background-color: #333333}
+
+/* Background color for tab link */
+#featured-slider-pager a {background-color: #222222}
+
+/* Background color for active tab link */
+#featured-slider-pager a.active {background-color: rgba(255, 255, 255, 0.05);}
+
+/* Links and entry meta in slider tabs */
+#featured-slider-pager h3, #featured-slider-pager a .entry-meta, #featured-slider-pager a .entry-meta .by-category:before, #featured-slider-pager a .entry-meta .by-view-number:before, #featured-slider-pager a .entry-meta .by-date:before, #featured-slider-pager a .entry-meta .by-author:before, #featured-slider-pager a .entry-meta .by-comments:before {color: rgba(255, 255, 255, 0.5);}
+
+/* Active links in slider tabs */
+#featured-slider-pager a.active h3, #featured-slider-pager a.active > .entry-meta span, #featured-slider-pager a.active .entry-meta .by-category:before, #featured-slider-pager a.active .entry-meta .by-view-number:before, #featured-slider-pager a.active .entry-meta .by-date:before, #featured-slider-pager a.active .entry-meta .by-author:before, #featured-slider-pager a.active .entry-meta .by-comments:before {color:#fff;}
+
+/* Border for tabs links */
+#featured-slider-pager a {border-color:#111111;}
+
+/* Background color for active tab link */
+#featured-slider-pager a:hover {background-color: rgba(255, 255, 255, 0.01);}

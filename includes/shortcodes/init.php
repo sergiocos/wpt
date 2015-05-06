@@ -1,0 +1,18 @@
+<?php
+	require_once(THEME_SHORTCODES_PATH.'warning.php');
+	require_once(THEME_SHORTCODES_PATH.'dropcaps.php');
+	require_once(THEME_SHORTCODES_PATH.'pricing.php');
+	require_once(THEME_SHORTCODES_PATH.'tab.php');
+	require_once(THEME_SHORTCODES_PATH.'tooltip.php');
+	require_once(THEME_SHORTCODES_PATH.'toggles.php');
+	require_once(THEME_SHORTCODES_PATH.'buttons.php');
+	require_once(THEME_SHORTCODES_PATH.'marker.php');
+	require_once(THEME_SHORTCODES_PATH.'lists.php');
+	require_once(THEME_SHORTCODES_PATH.'columns.php');
+	require_once(THEME_SHORTCODES_PATH.'miscellaneous.php');
+	require_once(THEME_SHORTCODES_PATH.'icon.php');
+	require_once(THEME_SHORTCODES_PATH.'qoutes.php');
+	require_once(THEME_SHORTCODES_PATH.'heading.php');
+	require_once(THEME_SHORTCODES_PATH.'social.php');
+	require_once(THEME_SHORTCODES_PATH.'clear.php');
+?>

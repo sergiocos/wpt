@@ -1,0 +1,1319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMagPress\n"
+"POT-Creation-Date: 2014-11-12 14:17+0200\n"
+"PO-Revision-Date: 2014-11-12 14:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: Different Themes <support@different-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"The page you are looking for<br>has been moved or doesn't exist anymore!"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"But don't worry, it can happen to the best of us - and it just happened to "
+"you!<br>\n"
+"                You can back to home page or read this text one more time."
+msgstr ""
+
+#: 404.php:17
+msgid "Back to home"
+msgstr ""
+
+#: category.php:30 search.php:9 template-archive.php:82
+#: template-contact.php:73 includes/gallery-single.php:69
+#: includes/news-single.php:74 includes/news.php:8 includes/page-single.php:34
+#: includes/page-woocommerce.php:11
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "Only <a href=\"%1$s\"> registered </a> users can comment."
+msgstr ""
+
+#: comments.php:41
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:41
+msgid "Your comment.."
+msgstr ""
+
+#: comments.php:49
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:63
+msgid "All Rights Reserved."
+msgstr ""
+
+#: header.php:33
+#, php-format
+msgid "%s latest posts"
+msgstr ""
+
+#: header.php:34
+#, php-format
+msgid "%s latest comments"
+msgstr ""
+
+#: searchform.php:3 includes/top.php:106
+msgid "Search..."
+msgstr ""
+
+#: template-archive.php:55
+msgid "More"
+msgstr ""
+
+#: template-contact.php:40
+msgid "Attention! Please correct the errors below and try again."
+msgstr ""
+
+#: template-contact.php:42
+msgid "Your name is <strong>required</strong>."
+msgstr ""
+
+#: template-contact.php:43
+msgid "Your e-mail address is <strong>required</strong>."
+msgstr ""
+
+#: template-contact.php:44
+msgid "You must <strong>enter a message</strong> to send."
+msgstr ""
+
+#: template-contact.php:47
+msgid "Email sent successfully!"
+msgstr ""
+
+#: template-contact.php:54
+msgid "Name"
+msgstr ""
+
+#: template-contact.php:58
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:63 lib/js/scripts.php:52
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:67
+msgid "Submit"
+msgstr ""
+
+#: template-gallery.php:27
+msgid "All"
+msgstr ""
+
+#: template-gallery.php:72
+msgid "No items were found"
+msgstr ""
+
+#: functions/ajax.php:246
+msgid "From"
+msgstr ""
+
+#: functions/ajax.php:246
+msgid "Contact Page"
+msgstr ""
+
+#: functions/ajax.php:259
+msgid "Message:"
+msgstr ""
+
+#: functions/ajax.php:261 functions/filters.php:166
+msgid "Name:"
+msgstr ""
+
+#: functions/ajax.php:262 functions/filters.php:167
+msgid "E-mail:"
+msgstr ""
+
+#: functions/ajax.php:263
+msgid "IP Address:"
+msgstr ""
+
+#: functions/ajax.php:336
+msgid "First name:"
+msgstr ""
+
+#: functions/ajax.php:340
+msgid "Last name:"
+msgstr ""
+
+#: functions/ajax.php:344
+msgid "Email adress:"
+msgstr ""
+
+#: functions/ajax.php:348
+msgid "Phone number:"
+msgstr ""
+
+#: functions/ajax.php:352
+msgid "Room type:"
+msgstr ""
+
+#: functions/ajax.php:356
+msgid "No. of rooms:"
+msgstr ""
+
+#: functions/ajax.php:360
+msgid "No. of adults:"
+msgstr ""
+
+#: functions/ajax.php:364
+msgid "No. of children:"
+msgstr ""
+
+#: functions/ajax.php:368
+msgid "Arrival date:"
+msgstr ""
+
+#: functions/ajax.php:372
+msgid "Departure date:"
+msgstr ""
+
+#: functions/ajax.php:376
+msgid "Additional information:"
+msgstr ""
+
+#: functions/ajax.php:384
+msgid "New Reservation At"
+msgstr ""
+
+#: functions/filters.php:166
+msgid "Name.."
+msgstr ""
+
+#: functions/filters.php:167
+msgid "E-mail.."
+msgstr ""
+
+#: functions/filters.php:178
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions/filters.php:179
+msgid "Your email address will not be published. Required fields are marked "
+msgstr ""
+
+#: functions/filters.php:241
+msgid "All posts from"
+msgstr ""
+
+#: functions/homepage-blocks.php:55 functions/homepage-blocks.php:103
+#: functions/homepage-blocks.php:183 functions/homepage-blocks.php:251
+#: functions/homepage-blocks.php:298 functions/homepage-blocks.php:416
+#: functions/homepage-blocks.php:499 functions/homepage-blocks.php:580
+#: functions/homepage-blocks.php:622 includes/news-single.php:37
+#: includes/top.php:173 includes/loop/post.php:109 includes/loop/post.php:149
+#: includes/widgets/widget-imagpress-latest-comments.php:65
+msgid " ago"
+msgstr ""
+
+#: functions/homepage-blocks.php:67 functions/homepage-blocks.php:263
+#: functions/homepage-blocks.php:592 includes/top.php:225
+#: includes/loop/post.php:120 includes/loop/post.php:161
+msgid "Read more"
+msgstr ""
+
+#: functions/homepage-blocks.php:78 functions/homepage-blocks.php:395
+#: functions/homepage-blocks.php:478 functions/homepage-blocks.php:558
+msgid "View all"
+msgstr ""
+
+#: functions/imagpress-menu.php:31
+msgid "Show Title/Date/Author/Category"
+msgstr ""
+
+#: functions/imagpress-menu.php:31
+msgid "Show Title:"
+msgstr ""
+
+#: functions/imagpress-menu.php:32
+msgid "Show Prev/Next Buttons"
+msgstr ""
+
+#: functions/imagpress-menu.php:32
+msgid "Show:"
+msgstr ""
+
+#: functions/imagpress-menu.php:33
+msgid "Enable Fancy Box On Blog Post Images"
+msgstr ""
+
+#: functions/imagpress-menu.php:33
+msgid "Fancybox:"
+msgstr ""
+
+#: functions/imagpress-menu.php:34
+msgid "Post Type"
+msgstr ""
+
+#: functions/imagpress-menu.php:34
+#: includes/widgets/widget-imagpress-reviews.php:18
+msgid "Type:"
+msgstr ""
+
+#: functions/imagpress-menu.php:35
+msgid "Vimeo/YouTube Video URL"
+msgstr ""
+
+#: functions/imagpress-menu.php:35
+msgid "Url:"
+msgstr ""
+
+#: functions/imagpress-menu.php:36
+msgid "Post Slider Images"
+msgstr ""
+
+#: functions/imagpress-menu.php:37
+msgid "Main Slider Post"
+msgstr ""
+
+#: functions/imagpress-menu.php:37
+msgid "Show"
+msgstr ""
+
+#: functions/imagpress-menu.php:38
+msgid "Main Slider Image"
+msgstr ""
+
+#: functions/imagpress-menu.php:38
+msgid "Image"
+msgstr ""
+
+#: functions/imagpress-menu.php:46
+msgid " Ratings"
+msgstr ""
+
+#: functions/imagpress-menu.php:46
+msgid ""
+"Enter the ratings like this - <b>Illustration:5; Design:4,5; "
+"<br>Photography:3; Interface:4; Quality:4</b>"
+msgstr ""
+
+#: functions/imagpress-menu.php:49
+msgid "Gallery Images"
+msgstr ""
+
+#: functions/imagpress-menu.php:104
+msgid "Homepage Slider"
+msgstr ""
+
+#: functions/imagpress-menu.php:104
+msgid "Option"
+msgstr ""
+
+#: functions/imagpress-menu.php:105
+msgid "Homepage Intro Text (Text/HTML/Shortcode)"
+msgstr ""
+
+#: functions/imagpress-menu.php:105
+msgid "Text"
+msgstr ""
+
+#: functions/imagpress-menu.php:107
+msgid "Homepage Builder"
+msgstr ""
+
+#: functions/imagpress-menu.php:107
+msgid "Homepage builder"
+msgstr ""
+
+#: functions/imagpress-menu.php:370 includes/theme-config.php:950
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: functions/nav.php:45
+msgid "PREV"
+msgstr ""
+
+#: functions/nav.php:46
+msgid "NEXT"
+msgstr ""
+
+#: functions/nav.php:96 includes/single/post-switcher.php:19
+msgid "Previous"
+msgstr ""
+
+#: functions/other.php:23
+msgid "Category Style "
+msgstr ""
+
+#: functions/other.php:167
+msgid "Rating: "
+msgstr ""
+
+#: functions/other.php:524
+msgid "Free WiFi"
+msgstr ""
+
+#: functions/other.php:527
+msgid "TV and satelitte"
+msgstr ""
+
+#: functions/other.php:530
+msgid "24/7 Room service"
+msgstr ""
+
+#: functions/other.php:533
+msgid "Room bar"
+msgstr ""
+
+#: functions/other.php:536
+msgid "Safe deposit"
+msgstr ""
+
+#: functions/other.php:539
+msgid "Loundry service"
+msgstr ""
+
+#: functions/other.php:542
+msgid "Access for disabled"
+msgstr ""
+
+#: functions/other.php:545
+msgid "No smooking"
+msgstr ""
+
+#: functions/other.php:548
+msgid "Pets allowed"
+msgstr ""
+
+#: functions/other.php:551
+msgid "Pets not allowed"
+msgstr ""
+
+#: functions/other.php:554
+msgid "Parking"
+msgstr ""
+
+#: functions/other.php:557
+msgid "Swimming pool"
+msgstr ""
+
+#: functions/other.php:560
+msgid "Hair dryer"
+msgstr ""
+
+#: functions/other.php:563
+msgid "Dinner included"
+msgstr ""
+
+#: functions/other.php:566
+msgid "Hotel barbershop"
+msgstr ""
+
+#: functions/other.php:569
+msgid "Hotel giftshop"
+msgstr ""
+
+#: functions/other.php:572
+msgid "Hotel wellness"
+msgstr ""
+
+#: functions/other.php:575
+msgid "Hotel tennis"
+msgstr ""
+
+#: functions/other.php:578
+msgid "Hotel cocktail bar"
+msgstr ""
+
+#: functions/other.php:581
+msgid "Hotel gym"
+msgstr ""
+
+#: functions/other.php:584
+msgid "Kids"
+msgstr ""
+
+#: functions/other.php:587
+msgid "Hotel doctor"
+msgstr ""
+
+#: functions/other.php:590
+msgid "Hotel library"
+msgstr ""
+
+#: functions/other.php:593
+msgid "Currency exchange office"
+msgstr ""
+
+#: functions/other.php:609
+msgid "Search Results for"
+msgstr ""
+
+#: functions/other.php:617
+msgid "Posts From"
+msgstr ""
+
+#: functions/other.php:620
+msgid "Tag"
+msgstr ""
+
+#: functions/other.php:622
+msgid "Archive"
+msgstr ""
+
+#: functions/other.php:896 functions/other.php:956
+msgid "Delete image"
+msgstr ""
+
+#: functions/other.php:896 functions/other.php:956
+#: functions/tax-meta-class/tax-meta-class.php:250
+#: functions/tax-meta-class/tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+#: functions/other.php:907
+msgid "Add images"
+msgstr ""
+
+#: functions/other.php:933
+msgid "Add Images to Product Gallery"
+msgstr ""
+
+#: functions/other.php:935
+msgid "Add to gallery"
+msgstr ""
+
+#: functions/other.php:1131
+msgid "Moderate or heavy snow in area with thunder"
+msgstr ""
+
+#: functions/other.php:1135
+msgid "Patchy light snow in area with thunder"
+msgstr ""
+
+#: functions/other.php:1139
+msgid "Moderate or heavy snow showers"
+msgstr ""
+
+#: functions/other.php:1143
+msgid "Light snow showers"
+msgstr ""
+
+#: functions/other.php:1147
+msgid "Ice pellets"
+msgstr ""
+
+#: functions/other.php:1151
+msgid "Heavy snow"
+msgstr ""
+
+#: functions/other.php:1155
+msgid "Patchy heavy snow"
+msgstr ""
+
+#: functions/other.php:1159
+msgid "Moderate snow"
+msgstr ""
+
+#: functions/other.php:1163
+msgid "Patchy moderate snow"
+msgstr ""
+
+#: functions/other.php:1167
+msgid "Light snow"
+msgstr ""
+
+#: functions/other.php:1171
+msgid "Patchy light snow"
+msgstr ""
+
+#: functions/other.php:1175
+msgid "Moderate or heavy sleet"
+msgstr ""
+
+#: functions/other.php:1179
+msgid "Light sleet"
+msgstr ""
+
+#: functions/other.php:1183
+msgid "Heavy freezing drizzle"
+msgstr ""
+
+#: functions/other.php:1187
+msgid "Freezing drizzle"
+msgstr ""
+
+#: functions/other.php:1191
+msgid "Light drizzle"
+msgstr ""
+
+#: functions/other.php:1195
+msgid "Patchy light drizzle"
+msgstr ""
+
+#: functions/other.php:1199
+msgid "Blizzard"
+msgstr ""
+
+#: functions/other.php:1203
+msgid "Blowing snow"
+msgstr ""
+
+#: functions/other.php:1207
+msgid "Moderate or heavy rain in area with thunder"
+msgstr ""
+
+#: functions/other.php:1211
+msgid "Patchy light rain in area with thunder"
+msgstr ""
+
+#: functions/other.php:1215
+msgid "Thundery outbreaks in nearby"
+msgstr ""
+
+#: functions/other.php:1219
+msgid "Moderate or heavy showers of ice pellets"
+msgstr ""
+
+#: functions/other.php:1223
+msgid "Light showers of ice pellets"
+msgstr ""
+
+#: functions/other.php:1227
+msgid "Moderate or heavy sleet showers"
+msgstr ""
+
+#: functions/other.php:1231
+msgid "Light sleet showers"
+msgstr ""
+
+#: functions/other.php:1235
+msgid "Torrential rain shower"
+msgstr ""
+
+#: functions/other.php:1239
+msgid "Moderate or heavy rain shower"
+msgstr ""
+
+#: functions/other.php:1243
+msgid "Light rain shower"
+msgstr ""
+
+#: functions/other.php:1247
+msgid "Moderate or Heavy freezing rain"
+msgstr ""
+
+#: functions/other.php:1251
+msgid "Light freezing rain"
+msgstr ""
+
+#: functions/other.php:1255
+msgid "Heavy rain"
+msgstr ""
+
+#: functions/other.php:1259
+msgid "Heavy rain at times"
+msgstr ""
+
+#: functions/other.php:1263
+msgid "Moderate rain"
+msgstr ""
+
+#: functions/other.php:1267
+msgid "Moderate rain at times"
+msgstr ""
+
+#: functions/other.php:1271
+msgid "Light rain"
+msgstr ""
+
+#: functions/other.php:1275
+msgid "Patchy light rain"
+msgstr ""
+
+#: functions/other.php:1279
+msgid "Patchy freezing drizzle nearby"
+msgstr ""
+
+#: functions/other.php:1283
+msgid "Patchy snow nearby"
+msgstr ""
+
+#: functions/other.php:1287
+msgid "Patchy rain nearby"
+msgstr ""
+
+#: functions/other.php:1291
+msgid "Freezing fog"
+msgstr ""
+
+#: functions/other.php:1295
+msgid "Fog"
+msgstr ""
+
+#: functions/other.php:1299
+msgid "Mist"
+msgstr ""
+
+#: functions/other.php:1303
+msgid "Overcast"
+msgstr ""
+
+#: functions/other.php:1307
+msgid "Cloudy"
+msgstr ""
+
+#: functions/other.php:1311
+msgid "Partly Cloudy"
+msgstr ""
+
+#: functions/other.php:1315
+msgid "Sunny"
+msgstr ""
+
+#: functions/other.php:1319
+msgid "Patchy sleet nearby"
+msgstr ""
+
+#: functions/other.php:1323
+msgid "Can't get any data."
+msgstr ""
+
+#: functions/other.php:1336 functions/other.php:1349
+msgid "Something went wrong with the connection!"
+msgstr ""
+
+#: functions/other.php:1353
+msgid "This option doesn't work on localhost!"
+msgstr ""
+
+#: functions/other.php:1358
+msgid "Please set up your API key!"
+msgstr ""
+
+#: functions/other.php:1458
+msgid "Avatar"
+msgstr ""
+
+#: functions/other.php:1460
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions/other.php:1466
+msgid "Reply"
+msgstr ""
+
+#: functions/register.php:13
+msgid "Top Menu"
+msgstr ""
+
+#: functions/register.php:14
+msgid "Main Menu"
+msgstr ""
+
+#: functions/register.php:26
+msgid "Add New Item"
+msgstr ""
+
+#: functions/register.php:27
+msgid "Edit Item"
+msgstr ""
+
+#: functions/register.php:28
+msgid "New Gallery Item"
+msgstr ""
+
+#: functions/register.php:29
+msgid "View Item"
+msgstr ""
+
+#: functions/register.php:30
+msgid "Search Gallery Items"
+msgstr ""
+
+#: functions/register.php:31
+msgid "No Gallery items found"
+msgstr ""
+
+#: functions/register.php:32
+msgid "No Gallery items found in Trash"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:582
+#: functions/tax-meta-class/tax-meta-class.php:629
+msgid "Remove"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:595
+msgid "Add"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:947
+msgid "Select a color"
+msgstr ""
+
+#: includes/news-single.php:51 includes/page-single.php:13
+msgid "Pages:"
+msgstr ""
+
+#: includes/news-single.php:56 includes/page-single.php:18
+msgid "Next page"
+msgstr ""
+
+#: includes/news-single.php:57 includes/page-single.php:19
+msgid "Previous page"
+msgstr ""
+
+#: includes/sidebar.php:33
+msgid "Weather Forecast"
+msgstr ""
+
+#: includes/theme-config.php:620
+msgid "Select A List"
+msgstr ""
+
+#: includes/theme-config.php:630
+msgid ""
+"This AWeber account doesn't currently have any lists or your authorization "
+"code is incorrect!"
+msgstr ""
+
+#: includes/theme-config.php:1118
+msgid "Select a category name"
+msgstr ""
+
+#: includes/theme-config.php:1174
+msgid "Latest News"
+msgstr ""
+
+#: includes/theme-config.php:1186
+msgid "Please create a category"
+msgstr ""
+
+#: includes/top.php:49 includes/single/share.php:15
+msgid "Twitter"
+msgstr ""
+
+#: includes/top.php:50 includes/single/share.php:21
+msgid "Facebook"
+msgstr ""
+
+#: includes/top.php:51
+msgid "Dribbble"
+msgstr ""
+
+#: includes/top.php:52
+msgid "Linkedin"
+msgstr ""
+
+#: includes/top.php:53 includes/single/share.php:39
+msgid "Pinterest"
+msgstr ""
+
+#: includes/top.php:54 includes/single/share.php:33
+msgid "Google+"
+msgstr ""
+
+#: includes/admin/general.php:250
+msgid "3 posts in row:"
+msgstr ""
+
+#: includes/admin/general.php:258
+msgid "2 posts in row:"
+msgstr ""
+
+#: includes/admin/general.php:266
+msgid "1 posts in row:"
+msgstr ""
+
+#: includes/admin/general.php:418
+msgid "Link To Twitter Account:"
+msgstr ""
+
+#: includes/admin/general.php:424
+msgid "Link To Facebook Account:"
+msgstr ""
+
+#: includes/admin/general.php:430
+msgid "Link To Google+ Account:"
+msgstr ""
+
+#: includes/admin/general.php:435
+msgid "Link To Dribbble Account:"
+msgstr ""
+
+#: includes/admin/general.php:440
+msgid "Link To Linkedin Account:"
+msgstr ""
+
+#: includes/admin/general.php:446
+msgid "Link To Pinterest Account:"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:120
+#: includes/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:121
+#: includes/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:122
+#: includes/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:123
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:134
+#: includes/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:135
+#: includes/lib/class-tgm-plugin-activation.php:171
+#: includes/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:136
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/single/post-ratings.php:7
+msgid "Excellent"
+msgstr ""
+
+#: includes/single/post-ratings.php:9
+msgid "Good"
+msgstr ""
+
+#: includes/single/post-ratings.php:11
+msgid "Average"
+msgstr ""
+
+#: includes/single/post-ratings.php:13
+msgid "Fair"
+msgstr ""
+
+#: includes/single/post-ratings.php:15
+msgid "Poor"
+msgstr ""
+
+#: includes/single/post-ratings.php:17
+msgid "Very Poor"
+msgstr ""
+
+#: includes/single/post-ratings.php:29
+msgid "Rating overview"
+msgstr ""
+
+#: includes/single/post-ratings.php:48
+msgid "Total score"
+msgstr ""
+
+#: includes/single/post-switcher.php:25
+msgid "Next"
+msgstr ""
+
+#: includes/single/post-tags.php:7
+msgid "Tagged"
+msgstr ""
+
+#: includes/single/share.php:12
+msgid "Share this article"
+msgstr ""
+
+#: includes/single/share.php:27
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:36
+msgid "Link 1:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:37
+msgid "Image Url 1:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:39
+msgid "Link 2:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:40
+msgid "Image Url 2:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:42
+msgid "Link 3:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:43
+msgid "Image Url 3:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:45
+msgid "Link 4:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:46
+msgid "Image Url 4:"
+msgstr ""
+
+#: includes/widgets/widget-ad125x125.php:87
+msgid "Banner"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:35
+msgid ""
+"A widget that allows the display and configuration of of a single 300x250 "
+"Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:41
+msgid " Custom 300x250 Ad"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:118
+#: includes/widgets/widget-imagpress-cat.php:12
+#: includes/widgets/widget-imagpress-flickr.php:15
+#: includes/widgets/widget-imagpress-latest-comments.php:13
+#: includes/widgets/widget-imagpress-latest-posts-2.php:14
+#: includes/widgets/widget-imagpress-popular-posts.php:14
+#: includes/widgets/widget-imagpress-reviews.php:16
+#: includes/widgets/widget-imagpress-text.php:14
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:124
+msgid "Ad image url:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:130
+msgid "Ad link url:"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-flickr.php:18
+msgid "Flickr ID:"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-flickr.php:19
+#: includes/widgets/widget-imagpress-latest-comments.php:14
+#: includes/widgets/widget-imagpress-latest-posts-2.php:15
+#: includes/widgets/widget-imagpress-latest-posts.php:13
+msgid "Count:"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-latest-posts-2.php:28
+#: includes/widgets/widget-imagpress-latest-posts.php:27
+#: includes/widgets/widget-imagpress-reviews.php:37
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-latest-posts-2.php:104
+#: includes/widgets/widget-imagpress-latest-posts.php:74
+#: includes/widgets/widget-imagpress-popular-posts.php:92
+#: includes/widgets/widget-imagpress-reviews.php:129
+msgid "No posts where found"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-latest-posts.php:25
+#: includes/widgets/widget-imagpress-reviews.php:35
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-popular-posts.php:15
+#: includes/widgets/widget-imagpress-reviews.php:17
+msgid "Post count:"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-reviews.php:20
+msgid "Latests"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-reviews.php:21
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/widget-imagpress-text.php:17
+msgid "Text:"
+msgstr ""
+
+#: lib/js/scripts.php:25
+msgid "Nickname"
+msgstr ""
+
+#: lib/js/scripts.php:25
+msgid "First Name"
+msgstr ""
+
+#: lib/js/scripts.php:26
+msgid "You didn't enter Your First Name."
+msgstr ""
+
+#: lib/js/scripts.php:28
+msgid "First Name is the wrong length."
+msgstr ""
+
+#: lib/js/scripts.php:39
+msgid "You didn't enter an email address."
+msgstr ""
+
+#: lib/js/scripts.php:41
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: lib/js/scripts.php:53
+msgid "You didn't enter Your message."
+msgstr ""
+
+#: lib/js/scripts.php:55
+msgid "The message is to short."
+msgstr ""
+
+#: lib/js/scripts.php:67
+msgid "You didn't enter Your last name."
+msgstr ""
+
+#: lib/js/scripts.php:69
+msgid "Last Name is the wrong length."
+msgstr ""
+
+#: lib/js/scripts.php:80
+msgid "You didn't enter Your phone number."
+msgstr ""
+
+#: lib/js/scripts.php:82
+msgid "Please enter a valid phone number."
+msgstr ""

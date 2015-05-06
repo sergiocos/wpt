@@ -52,7 +52,7 @@
 		                     ?>
 	                        <div class="description-em">
 	                            <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                            <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                            <span class="by-date"><?php the_time('j F, Y');?></span>
 		                        <?php if ( comments_open() ) { ?>
 		                            <span class="by-comments">
 		                                <a href="<?php the_permalink();?>#comments"><?php comments_number("0","1","%"); ?></a>
@@ -100,7 +100,7 @@
 			                     ?>
 	                            <div class="description-em">
 	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                                <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 	                        </div>
 	                    </li>
@@ -180,7 +180,7 @@
 			                     ?>
 	                            <div class="description-em">
 	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                                <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 		                    </div>
 		                </li>
@@ -248,7 +248,7 @@
 		                     ?>
 	                        <div class="description-em">
 	                            <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                            <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                            <span class="by-date"><?php the_time('j F, Y');?></span>
 		                        <?php if ( comments_open() ) { ?>
 		                            <span class="by-comments">
 		                                <a href="<?php the_permalink();?>#comments"><?php comments_number("0","1","%"); ?></a>
@@ -295,7 +295,7 @@
 			                     ?>
 	                            <div class="description-em">
 	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                                <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 	                        </div>
 	                    </li>
@@ -413,7 +413,7 @@
 			                     ?>
 	                            <div class="description-em">
 	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                                <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 		                    </div>
 		                </li>
@@ -496,7 +496,7 @@
 			                     ?>
 	                            <div class="description-em">
 	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                                <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 		                    </div>
 		                </li>
@@ -577,7 +577,7 @@
 		                     ?>
 	                        <div class="description-em">
 	                            <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                            <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                            <span class="by-date"><?php the_time('j F, Y');?></span>
 		                        <?php if ( comments_open() ) { ?>
 		                            <span class="by-comments">
 		                                <a href="<?php the_permalink();?>#comments"><?php comments_number("0","1","%"); ?></a>
@@ -619,7 +619,7 @@
 			                     ?>
 	                            <div class="description-em">
 	                                <span class="by-view-number"><?php echo df_getPostViews($my_query->post->ID);?></span>
-	                                <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                                <span class="by-date"><?php the_time('j F, Y');?></span>
 	                            </div>
 	                        </div>
 	                    </li>

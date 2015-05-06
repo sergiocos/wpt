@@ -34,7 +34,7 @@
 									}
 								?>
 	                        </span>
-	                        <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+	                        <span class="by-date"><?php the_time('j F, Y');?></span>
 	                        <span class="by-author"><?php echo the_author_posts_link();?></span>
 			                <?php if ( comments_open() ) { ?>
 			               		<span class="by-comments">

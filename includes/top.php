@@ -170,7 +170,7 @@
 		                     ?>
 		                    <div class="description-em">
 			                    <span class="by-view-number"><?php echo df_getPostViews($post->ID);?></span>
-			                    <span class="by-date"><?php echo human_time_diff( get_the_time('U'), current_time('timestamp') ).__(" ago", THEME_NAME); ?></span>
+			                    <span class="by-date"><?php the_time('j F, Y');?></span>
 		                    </div>
 		                </div>
 		            </a>

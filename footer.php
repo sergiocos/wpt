@@ -49,6 +49,16 @@
 	?>
 <!-- Footer -->
 <!-- sergiu-mod: fb code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '-3780331-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -70,7 +80,7 @@
     <div class="container">
     	<!-- Copyright block -->
       <div class="copyright-block">
-        	<p>&copy; <?php echo date("Y");?> <a href="http://themeforest.net/user/different-themes?ref=different-themes" target="_blank">iMagPress</a>. <?php _e("All Rights Reserved.", THEME_NAME);?></p>
+        	<p>&copy; <?php echo date("Y");?> <a href="http://www.stiridb.ro/" target="_blank">stiriDB.ro</a>. <?php _e("All Rights Reserved.", THEME_NAME);?></p>
         	<p class="disclaimer">
         		<?php echo stripslashes($footerText);?>
         	</p>
